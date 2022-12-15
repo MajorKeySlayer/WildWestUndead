@@ -1,0 +1,7 @@
+.body-content {
+  background-color: var(--bg);
+  color: var(--text-color);
+  min-height: var(--min-body-height);
+  width: 100%;
+  min-height: var(--min-body-height);
+}
